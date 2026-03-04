@@ -1,4 +1,3 @@
-````markdown
 # Wordle – A Python Implementation
 
 A simple implementation of the popular Wordle game written in Python.
@@ -45,5 +44,3 @@ with open(input_file_path, "r") as f:
 * `word_bank.txt` contains words ranging from 5 to 8 letters.
 * Ensure all related configurations match your chosen word length to avoid errors.
 
-```
-```
